@@ -1,7 +1,12 @@
 import './App.css'
+import './MOCK_DATA.json'
 
-export default function App() {
+function App() {
   return (
- 
+    <div>
+      Hello World
+    </div>
   )
 }
+
+export default App;
